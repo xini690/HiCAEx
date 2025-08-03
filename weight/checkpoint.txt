@@ -1,0 +1,2 @@
+RETFound_cfp_weights.pth
+RETFound_oct_weights.pth
