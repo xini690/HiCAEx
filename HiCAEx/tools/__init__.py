@@ -1,1 +1,0 @@
-from .retfound_encoder2_eyenet_encoder import eyenet2retfound, retfound2eyenet
