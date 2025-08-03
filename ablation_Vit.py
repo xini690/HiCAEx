@@ -1,7 +1,7 @@
 from torch import nn
 
 from util.load_checkpoint import get_pretrained_vit_model
-
+# class
 class SingleModalViTMoE(nn.Module):
     def __init__(self, args):
         super().__init__()
@@ -30,3 +30,4 @@ class Mlp(nn.Module):
         x = self.fc2(x)
         x = self.drop(x)
         return x
+
