@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 3. Download Weight
 ```
-Please download RetFound weights and place them in the /weight directory
+Please download RETFound weights (https://github.com/rmaphoh/RETFound_MAE) and place them in the /weight directory
 /weight/RETFound_cfp_weights.pth
 /weight/RETFound_oct_weights.pth
 ```
